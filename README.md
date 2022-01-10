@@ -9,5 +9,3 @@ Output by Depth-first Search:
 Output by Breadth-first Search:
 ![image](https://user-images.githubusercontent.com/40967818/148720086-848197b8-52a1-4738-ba6c-38d2cef36aea.png)
 
- ![Uploading image.png…]()
-
